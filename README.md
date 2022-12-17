@@ -1,6 +1,6 @@
 # TryHackMe Writeups
 
-<img src="https://tryhackme.com/img/favicon.png" style="height:800px;text-align:center;width:1000px">
+<img src="https://tryhackme.com/img/favicon.png" style="height:900px;text-align:center;width:1000px">
 
 This repository contains all of my writeups I made for the famous and addictive TryHackMe CTF (Capture The Flag) challenges.
 
