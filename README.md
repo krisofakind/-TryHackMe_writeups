@@ -1,6 +1,6 @@
 # TryHackMe Writeups
 
-![alt text](TryHackMe-logo.png "Writeup Image")
+![alt text](TryHackMe-logo.png")
 
 This repository contains all of my writeups I made for the famous and addictive TryHackMe CTF (Capture The Flag) challenges.
 
