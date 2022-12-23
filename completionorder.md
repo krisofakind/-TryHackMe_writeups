@@ -1,3 +1,3 @@
 # Order of Completion 
 
-Linux Fundamentals 1 []
+Linux Fundamentals 1 [*]
