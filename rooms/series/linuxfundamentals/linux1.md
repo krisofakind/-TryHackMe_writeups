@@ -19,5 +19,5 @@
 # An Introduction to Shell Operators
 #### If we wanted to run a command in the background, what operator would we want to use? | Answer: & ( see the table above )
 #### If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be? | Answer: echo passwords > password123
-#### Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be | Answer:
+#### Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be | Answer: echo tryhackme && passwords
 #### Now use the deployed Linux machine to put these into practice | Answer:
